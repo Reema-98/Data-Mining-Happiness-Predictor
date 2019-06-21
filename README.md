@@ -1,0 +1,1 @@
+The assignment aimed at analyzing various world development indicators to predict the happiness score of a country. The World Happiness Dataset from Kaggle and the World Development Indicators from World Bank website were used as the datasets.
